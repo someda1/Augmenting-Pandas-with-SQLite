@@ -1,5 +1,5 @@
 # Augmenting-Pandas-with-SQLite
-we'll practice using some of the techniques we learned to analyze startup investments from Crunchbase.com
+
 
 In this session, we explored a few different ways to work with larger datasets in pandas. In this guided project, we'll practice using some of the techniques we learned to analyze startup investments from Crunchbase.com.
 
